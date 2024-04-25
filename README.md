@@ -19,9 +19,6 @@ This repository contains the open-source uptime monitor and status page for [Sim
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://upptime.github.io/upptime)
-
 ## 📄 License
 
-- Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: MIT © [Anand Chowdhary](https://anandchowdhary.com)
+- Powered by [Upptime](https://github.com/upptime/upptime)
