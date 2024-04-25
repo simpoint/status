@@ -16,11 +16,12 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Sim Point
   introTitle: "**Sim Point Network** status"
+  introMessage:
   navbar:
     - title: Status
       href: /
-    - title: Sim Point
-      href: https://simpoint.racing
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
