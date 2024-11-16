@@ -22,18 +22,19 @@
     "url": "https://api.simpoint.network",
     "icon": "https://icons.duckduckgo.com/ip3/api.simpoint.network.ico",
     "slug": "sim-point-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 550,
-    "timeDay": 475,
-    "timeWeek": 566,
-    "timeMonth": 1009,
+    "timeDay": 492,
+    "timeWeek": 559,
+    "timeMonth": 996,
     "timeYear": 550,
     "dailyMinutesDown": {
+      "2024-11-16": 0,
       "2024-05-12": 326,
       "2024-05-11": 204
     }
