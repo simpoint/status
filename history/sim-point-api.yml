@@ -1,7 +1,7 @@
 url: https://api.simpoint.network
-status: up
-code: 200
-responseTime: 448
-lastUpdated: 2025-01-01T23:07:01.361Z
+status: down
+code: 502
+responseTime: 553
+lastUpdated: 2025-01-01T23:24:25.636Z
 startTime: 2024-04-25T02:38:36.034Z
 generator: Upptime <https://github.com/upptime/upptime>
